@@ -79,3 +79,5 @@ theme: hiker
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+rss: /atom.xml
